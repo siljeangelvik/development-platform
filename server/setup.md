@@ -1,6 +1,11 @@
-# Setup 
-## Step by Step
+# Express Server 
 
+**Repository:** [GitHub](https://github.com/siljeangelvik/development-platform)  
+
+Using Express & React 
+
+
+## Step by Step Setup
 
 ### Project Setup GitHub 
 1. Create repository in GitHub Browser
@@ -41,5 +46,23 @@ console.log(`Example app listening at http://localhost:${port}`)
 **( Everything is working perfectly so far! )**
 
 
+### Project Setup 
+1. Run web server: `npm run node`
+2. Run live web server: `nodemon`
 
-### Project Setup
+
+### Goal
+
+- Get data from RapidAPI
+- Post data to a database
+- Deploy website
+
+
+
+---
+
+## Resources
+[Create React App Express](https://rapidapi.com/blog/create-react-app-express/)  
+[Express Basic Routing](https://expressjs.com/en/starter/basic-routing.html)  
+[How to use API with Nodejs](https://rapidapi.com/blog/how-to-use-an-api-with-node-js/)  
+[RapidAPI Word Associations](https://rapidapi.com/twinword/api/word-associations)  
